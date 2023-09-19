@@ -1,4 +1,4 @@
-#[Follow the link to view](./index.html)
+# [Follow the link to view](./index.html)
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
